@@ -9,5 +9,6 @@
  ┗ 📜requirements.txt            - 패키지 목록
 ```
 
-## 환경
-![image](https://github.com/OSS-Sinabro/Sinabro_Raspberrypi/assets/113533845/5d99a370-cb5a-4f2a-aa2e-87edb929191a)
+## ⚙ 환경
+![image](https://github.com/OSS-Sinabro/Sinabro_Raspberrypi/assets/113533845/97982118-2fae-46b6-b2f2-6f6b1a48f9a0)
+
