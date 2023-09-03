@@ -1,4 +1,7 @@
-# Sinabro_raspberrypi
+<div align="center">
+  <h1>Sinabro RaspberryPi</h1>
+<br/>
+</div>
 
 ## 📁 디렉토리 구조
 ```
