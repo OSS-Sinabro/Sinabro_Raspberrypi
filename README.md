@@ -10,5 +10,5 @@
 ```
 
 ## ⚙ 환경
-![image](https://github.com/OSS-Sinabro/Sinabro_Raspberrypi/assets/113533845/97982118-2fae-46b6-b2f2-6f6b1a48f9a0)
+![image](https://github.com/OSS-Sinabro/Sinabro_Raspberrypi/assets/113533845/5637d8e2-99f3-44f5-b124-0042f6e22a6b)
 
